@@ -1,0 +1,14 @@
+# Notebook environment
+jupyter
+
+# Data loading and analysis
+numpy
+pandas
+openpyxl
+
+# Customer-segmentation modeling
+scikit-learn
+
+# Visualisation
+matplotlib
+seaborn
