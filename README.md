@@ -1,14 +1,12 @@
-# OIBSIP Data Analytics Projects
+# OBISIP
 
-This repository contains the Customer Segmentation Analysis project.
+Oasis Infobyte Data Analytics Internship Projects.
 
-## Project structure
+## Customer Segmentation Analysis
 
-- `DataAnalytics-L1-CustomerSegmentationAnalysis/data/` — source dataset
-- `DataAnalytics-L1-CustomerSegmentationAnalysis/notebook/` — analysis notebook
-- `DataAnalytics-L1-CustomerSegmentationAnalysis/outputs/` — generated charts and CSV results
+The repository includes the dataset, analysis notebook, generated charts, CSV results, and requirements for Level 1 Task 2.
 
-## Setup
+### Setup
 
 ```powershell
 python -m venv .venv
