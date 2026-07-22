@@ -1,4 +1,4 @@
-# EDA on Retail Sales Data
+# Customer Segmentation Analysis
 
 Oasis Infobyte Data Analytics Internship
 
