@@ -1,4 +1,4 @@
-# 🍷 Wine Quality Prediction using Machine Learning
+# 🍷 Wine Quality Prediction
 
 ## 📌 Project Overview
 
